@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg)
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/35MG6KoNC3zyAkGes0/200.gif">
+<img align="right" alt="Coding" width="500" src="https://media3.giphy.com/media/35MG6KoNC3zyAkGes0/200.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development ,DSA and Blockchain.**
