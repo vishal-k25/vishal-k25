@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="500" src="https://media3.giphy.com/media/35MG6KoNC3zyAkGes0/200.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development ,DSA and Blockchain.**
+- 🌱 I’m currently working on **Web3 Development ,Blockchain and Defi**
 
 - ⚡ Fun fact **Not bitten by a spider.**
 
