@@ -1,10 +1,10 @@
 <!-- [![MasterHead](https://as2.ftcdn.net/v2/jpg/02/76/08/07/1000_F_276080724_hltnCyDjcqAyRtLzDYo3T2jXbBtCD7fl.jpg) -->
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">Life is too short to make enemies , let's collaborate 🤝</h3>
-<img align="right" alt="Coding" width="500" src="https://media3.giphy.com/media/35MG6KoNC3zyAkGes0/200.gif">
+<img align="right" alt="Coding" width="500" src="[https://media3.giphy.com/media/35MG6KoNC3zyAkGes0/200.gif](https://upload.wikimedia.org/wikipedia/commons/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif)">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working on **Web3 Development ,Blockchain and Defi**
+- 🌱 I’m currently working on **Web3 Development, Mern Stack, Blockchain and Defi**
 
 - ⚡ Fun fact **Not bitten by a spider.**
 
